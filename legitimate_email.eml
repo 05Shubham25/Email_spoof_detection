@@ -1,0 +1,63 @@
+From: "Google Team" <notifications@google.com>
+Reply-To: "Google Support" <support@google.com>
+Return-Path: <bounce@google.com>
+Message-ID: <1234567890@mail.google.com>
+Date: Sun, 18 May 2025 12:00:00 +0000
+Subject: Your Google Account Security Recommendations
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=selector;
+ h=From:Reply-To:Subject:Date:Message-ID:To:MIME-Version:Content-Type;
+ bh=1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF;
+ b=1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF
+ 1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF
+ 1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF
+Received: from mail-sor-f69.google.com (mail-sor-f69.google.com [209.85.220.69])
+ by mx.example.com (Example Mail Server) with ESMTPS id 1234567890
+ for <user@example.com>; Sun, 18 May 2025 12:00:00 +0000
+Received: from 209.85.220.69 (mail-sor-f69.google.com [209.85.220.69])
+ by mail.google.com (Google Mail Server) with ESMTPS id 0987654321
+ for <user@example.com>; Sun, 18 May 2025 12:00:00 +0000
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Google Security Recommendations</title>
+</head>
+<body>
+  <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #ddd;">
+    <div style="text-align: center; margin-bottom: 20px;">
+      <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google Logo" width="150">
+    </div>
+    
+    <h2 style="color: #4285f4;">Security Recommendations for Your Google Account</h2>
+    
+    <p>Hello,</p>
+    
+    <p>We're always working to keep your Google Account secure. We've put together some recommendations to help you strengthen your account security:</p>
+    
+    <ul style="margin: 20px 0;">
+      <li>Set up 2-Step Verification for an extra layer of security</li>
+      <li>Review your recent account activity</li>
+      <li>Update your recovery information</li>
+      <li>Complete a Security Checkup</li>
+    </ul>
+    
+    <div style="text-align: center; margin: 30px 0;">
+      <a href="https://myaccount.google.com/security" style="background-color: #4285f4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold;">Review Security Settings</a>
+    </div>
+    
+    <p>This email was sent to you to help keep your Google Account secure.</p>
+    
+    <p>Best,<br>
+    The Google Team</p>
+    
+    <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 12px; color: #777;">
+      <p>© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA</p>
+      <p>This email was sent to inform you about important changes to your Google Account and services.</p>
+    </div>
+  </div>
+</body>
+</html>
